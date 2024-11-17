@@ -1,5 +1,3 @@
-# Estelapefer
-
 ---
 Layout: default
 ---

@@ -41,10 +41,13 @@ La conjunción de ambas permite entender correctamente la postura y la marcha hu
 
 ## Estudios Posturales
 
-¿Qué es la posturología?
+### ¿Qué es la posturología?
+
 Cualquier disfunción en alguno de los captores posturales (vista, oído, pie, mandíbula, columna vertebral) determinará que la información que éstos mandan al sistema nervioso central  sea errónea, por tanto nuestra postura será deficiente, dando lugar a dolores crónicos y de repetición.
 
-La posturología estudia e integra el sistema postural fino. Mediante la realización de test clínicos y precisas mediciones en plataforma baropodométrica podremos determinar cuál es la causa primaria de la disfunción para tratarla después (con plantillas posturales, ejercicios, fisioterapia o derivando al profesional indicado en cada caso).
+La posturología estudia e integra el sistema postural fino. 
+Mediante la realización de test clínicos y precisas mediciones en plataforma baropodométrica podremos determinar cuál es la causa primaria de la disfunción para tratarla después (con plantillas posturales, ejercicios, fisioterapia o derivando al profesional indicado en cada caso).
 
-¿A quién va dirigido?
+### ¿A quién va dirigido?
+
 Principalmente a todos aquellos pacientes con dolor musculoesquelético cronificado (lumbalgias, cervicalgias, ciáticas…) que responde al tratamiento (mejora tras una sesión de fisioterapia o una infiltración) pero vuelve a recaer periódicamente. También es muy útil en pacientes con migrañas, vértigos, insomnio, cansancio generalizado, niños con déficit de atención e hiperactividad, etc.

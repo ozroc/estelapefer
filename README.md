@@ -1,7 +1,3 @@
----
-Layout: default
----
-
 # Estela Pérez Fernández
 
 * Fisioterapeuta colegiada número...
@@ -25,7 +21,7 @@ La conjunción de ambas permite entender correctamente la postura y la marcha hu
 
 ## Estudio Biomecánico de la Marcha
 
-![pisada](images/pie_1.gif)
+![pisada](images/pie_1.gif){: style="float: left"; width="25%"}
 
 * Estudio dinámico y estático para valorar la marcha y la carrera, con plataforma baropodométrica.
 * Evaluación y mejora del gesto deportivo.

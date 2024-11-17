@@ -10,7 +10,7 @@
 
 * [estelapefer@gmail.com](mailto: estelapefer@gmail.com)
 * [679492845](tel: 679492845)
-* [watsapp](https://wa.me/679492845)
+* [whatsapp](https://wa.me/679492845)
 
 # Servicios
 

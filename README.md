@@ -1,3 +1,7 @@
+# ---
+layout: default
+---
+
 # Estela Pérez Fernández
 
 * Fisioterapeuta colegiada número...

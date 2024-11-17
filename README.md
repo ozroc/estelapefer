@@ -6,7 +6,10 @@
 * Podóloga colegiada número 2411
 ![podo](images/colegio_podo.jpg){: style="float: right; width: 25%"}
 
+## Contacto
 
+* [estelapefer@gmail.com](mailto: estelapefer@gmail.com)
+* [679492845](tel: 679492845)
 Con la visión global del cuerpo humano que aporta la fisioterapia, la podología se convierte en una disciplina mucho más completa e integrativa.
 
 La conjunción de ambas permite entender correctamente la postura y la marcha humanas y diagnosticar con precisión el origen de los problemas para tratarlos de una forma mucho más efectiva.
@@ -49,6 +52,8 @@ La conjunción de ambas permite entender correctamente la postura y la marcha hu
 ## Estudios Posturales
 
 ### ¿Qué es la posturología?
+
+![masaje](images/vitruvian-man.svg.png){: style="float: left; width: 25%"}
 
 Cualquier disfunción en alguno de los captores posturales (vista, oído, pie, mandíbula, columna vertebral) determinará que la información que éstos mandan al sistema nervioso central  sea errónea, por tanto nuestra postura será deficiente, dando lugar a dolores crónicos y de repetición.
 

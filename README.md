@@ -1,7 +1,10 @@
 # Estela Pérez Fernández
 
-* Fisioterapeuta colegiada número...
-* Podóloga colegiada número...
+* Fisioterapeuta colegiada número 5951
+![fisio](images/logo-cfisiomad.png){: style="float: right; width: 25%"}
+
+* Podóloga colegiada número 2411
+![podo](images/colegio_podo.jpg){: style="float: right; width: 25%"}
 
 
 Con la visión global del cuerpo humano que aporta la fisioterapia, la podología se convierte en una disciplina mucho más completa e integrativa.
@@ -11,7 +14,7 @@ La conjunción de ambas permite entender correctamente la postura y la marcha hu
 # Servicios
 
 ## Fisioterapia
-
+![masaje](images/massage-line-art_left.png){: style="float: left; width: 25%"}
 * Reeducación postural y escuela de espalda
 * Lesiones traumatológicas (esguinces, fracturas, contusiones…)
 * Contracturas musculares y sobrecargas
@@ -34,6 +37,8 @@ La conjunción de ambas permite entender correctamente la postura y la marcha hu
 * Gimnasia abdominal hipopresiva
 
 ## Infantil
+
+![infantil](images/kotik-baby-01.svg.png){: style="float: right; width: 25%"}
 
 * Fisioterapia respiratoria
 * Tratamiento anticólicos

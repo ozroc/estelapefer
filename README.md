@@ -61,6 +61,7 @@ La conjunción de ambas permite entender correctamente la postura y la marcha hu
 
 Cualquier disfunción en alguno de los captores posturales (vista, oído, pie, mandíbula, columna vertebral) determinará que la información que éstos mandan al sistema nervioso central  sea errónea, por tanto nuestra postura será deficiente, dando lugar a dolores crónicos y de repetición.
 
+
 La posturología estudia e integra el sistema postural fino. 
 Mediante la realización de test clínicos y precisas mediciones en plataforma baropodométrica podremos determinar cuál es la causa primaria de la disfunción para tratarla después (con plantillas posturales, ejercicios, fisioterapia o derivando al profesional indicado en cada caso).
 

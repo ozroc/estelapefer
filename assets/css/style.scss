@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+//@import "{{ site.theme }}";
 
 body {
   font:14px/22px 'Courier New', monospace;
@@ -18,10 +18,10 @@ body {
 
 
 header {
-  background: #f290fc;
-//  min-height: 100vh;
-// display: grid;
-//  align-content: center;
+ background: #f290fc;
+ min-height: 100vh;
+ display: grid;
+ align-content: center;
 }
 
 h1 {

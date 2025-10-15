@@ -1,7 +1,16 @@
 ---
 ---
 
-//@import "{{ site.theme }}";
+@import "{{ site.theme }}";
+
+
+*,
+*:after,
+*:before {
+	box-sizing: border-box;
+}
+
+
 
 body {
   font:14px/22px 'Courier New', monospace;

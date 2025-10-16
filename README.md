@@ -14,6 +14,14 @@ Como fisioterapeuta, mi enfoque se basa en la anatomía, la fisiología y la sal
 
 Ofrezco un servicio que une el rigor científico del cuidado profesional con la pureza de la cosmética natural. Soy **Partner Oficial Ringana**, una marca que comparte mi filosofía de máxima eficacia y pureza.
 
+| Ilustración | Servicio/Producto | Enfoque Profesional |
+| :---: | :--- | :--- |
+| ** ![cosmetica sin tóxicos](images/cosmetica.png)** | **Cosmética sin Tóxicos** | **Rigor y Pureza:** Productos con certificación que evitan disruptores endocrinos, químicos sintéticos y conservantes artificiales, que pueden afectar la salud sistémica y la barrera cutánea. Máxima concentración de principios activos que nutren y regeneran la piel. |
+| **[Imagen: images/asesoria.png]** | **Asesoría Personalizada** | **Diagnóstico Basado en la Salud:** Evaluación detallada no solo de tu tipo de piel, sino de tus hábitos, estilo de vida y preocupaciones de salud. Diseño un protocolo de cuidado que respeta la fisiología natural de tu piel, garantizando la máxima absorción y beneficio de los nutrientes. |
+| **[Imagen: images/domicilio.png]** | **Cuidado Facial a Domicilio** | **Terapia Manual Avanzada:** Sesiones de tratamiento facial que combinan los productos Ringana con técnicas específicas de masaje facial (drenaje, estimulación muscular y liberación miofascial). Llevo el conocimiento clínico a la comodidad de tu hogar. |
+| **<img src="images/talleres.png" width="70" height="70" alt="Cosmética sin Tóxicos">** | **Talleres de Autocuidado** | **Educación para la Autonomía:** Aprende las técnicas de masaje facial y las rutinas de aplicación de productos desde una perspectiva de salud. Te enseño a estimular el drenaje linfático y a relajar la tensión facial para mantener los resultados en el tiempo. |
+
+***
 | Servicio/Producto | Enfoque Profesional |
 | :--- | :--- |
 | **Cosmética sin Tóxicos** | **Rigor y Pureza:** Productos con certificación que evitan disruptores endocrinos, químicos sintéticos y conservantes artificiales, que pueden afectar la salud sistémica y la barrera cutánea. Máxima concentración de principios activos que nutren y regeneran la piel. |

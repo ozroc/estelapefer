@@ -1,58 +1,31 @@
-Con la visión global del cuerpo humano que aporta la fisioterapia, la podología se convierte en una disciplina mucho más completa e integrativa.
 
-La conjunción de ambas permite entender correctamente la postura y la marcha humanas y diagnosticar con precisión el origen de los problemas para tratarlos de una forma mucho más efectiva.
+La piel no es solo un envoltorio; es nuestro órgano más grande, esencial para la homeostasis, la circulación y la eliminación de toxinas. Mi formación me permite abordar la belleza desde la raíz:
+* **Mejora de la Circulación:** Aplicación de técnicas para optimizar el riego sanguíneo y el drenaje linfático en el rostro y cuerpo, fundamentales para la nutrición celular y la desinflamación.
+* **Trofismo Tisular:** Conocimiento profundo de la musculatura y el tejido conjuntivo para mejorar la elasticidad y la firmeza de la piel de forma natural.
+* **Abordaje Profesional:** Integración de productos de alta calidad con una comprensión biomecánica y fisiológica del cuerpo.
 
-## Fisioterapia
+**Mi compromiso es claro: utilizar la ciencia del bienestar para lograr una belleza auténtica y duradera.**
 
-![masaje](images/massage-line-art_left.png){: style="float: right; width: 25%"}
+***
 
-* Reeducación postural y escuela de espalda
-* Lesiones traumatológicas (esguinces, fracturas, contusiones…)
-* Contracturas musculares y sobrecargas
-* Tratamientos postquirúrgicos
-* Lesiones deportivas
-* Drenaje linfático manual
+# **Servicios y Productos**
 
-## Estudio Biomecánico de la Marcha
+Como fisioterapeuta, mi enfoque se basa en la anatomía, la fisiología y la salud del sistema tegumentario (la piel y sus anexos). Entiendo el cuerpo como una unidad interconectada donde el bienestar interno se refleja directamente en el exterior, y la salud de la piel es un indicador clave de la salud general.
 
-![pisada](images/pie_1.gif){: style="float: left; width: 25%"}
+Ofrezco un servicio que une el rigor científico del cuidado profesional con la pureza de la cosmética natural. Soy **Partner Oficial Ringana**, una marca que comparte mi filosofía de máxima eficacia y pureza.
 
-* Estudio dinámico y estático para valorar la marcha y la carrera, con plataforma baropodométrica.
-* Evaluación y mejora del gesto deportivo.
-* Confección de plantillas ortopédicas y deportivas.
+| Servicio/Producto | Enfoque Profesional |
+| :--- | :--- |
+| **Cosmética sin Tóxicos** | **Rigor y Pureza:** Productos con certificación que evitan disruptores endocrinos, químicos sintéticos y conservantes artificiales, que pueden afectar la salud sistémica y la barrera cutánea. Máxima concentración de principios activos que nutren y regeneran la piel. |
+| **Asesoría Personalizada** | **Diagnóstico Basado en la Salud:** Evaluación detallada no solo de tu tipo de piel, sino de tus hábitos, estilo de vida y preocupaciones de salud. Diseño un protocolo de cuidado que respeta la fisiología natural de tu piel, garantizando la máxima absorción y beneficio de los nutrientes. |
+| **Cuidado Facial a Domicilio** | **Terapia Manual Avanzada:** Sesiones de tratamiento facial que combinan los productos Ringana con técnicas específicas de masaje facial (drenaje, estimulación muscular y liberación miofascial). Llevo el conocimiento clínico a la comodidad de tu hogar. |
+| **Talleres de Autocuidado** | **Educación para la Autonomía:** Aprende las técnicas de masaje facial y las rutinas de aplicación de productos desde una perspectiva de salud. Te enseño a estimular el drenaje linfático y a relajar la tensión facial para mantener los resultados en el tiempo. |
 
-## Suelo Pélvico
+***
 
-* Embarazo y postparto
-* Incontinencia urinaria
-* Gimnasia abdominal hipopresiva
+### **¿Lista para Iniciar tu Transformación Consciente?**
 
-## Infantil
-
-![infantil](images/kotik-baby-01.svg.png){: style="float: right; width: 25%"}
-
-* Fisioterapia respiratoria
-* Tratamiento anticólicos
-* Lesiones neurológicas
-* Prematuros
-* TDAH
-
-## Estudios Posturales
-
-### ¿Qué es la posturología?
-
-![masaje](images/vitruvian-man.svg.png){: style="float: left; width: 25%"}
-
-Cualquier disfunción en alguno de los captores posturales (vista, oído, pie, mandíbula, columna vertebral) determinará que la información que éstos mandan al sistema nervioso central  sea errónea, por tanto nuestra postura será deficiente, dando lugar a dolores crónicos y de repetición.
-
-
-La posturología estudia e integra el sistema postural fino. 
-Mediante la realización de test clínicos y precisas mediciones en plataforma baropodométrica podremos determinar cuál es la causa primaria de la disfunción para tratarla después (con plantillas posturales, ejercicios, fisioterapia o derivando al profesional indicado en cada caso).
-
-### ¿A quién va dirigido?
-
-Principalmente a todos aquellos pacientes con dolor musculoesquelético cronificado (lumbalgias, cervicalgias, ciáticas…) que responde al tratamiento (mejora tras una sesión de fisioterapia o una infiltración) pero vuelve a recaer periódicamente. También es muy útil en pacientes con migrañas, vértigos, insomnio, cansancio generalizado, niños con déficit de atención e hiperactividad, etc.
-
+Descubre cómo la cosmética natural puede elevar tu salud y tu belleza a un nuevo nivel.
 
 # Contacto
 
